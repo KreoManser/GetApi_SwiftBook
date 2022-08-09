@@ -13,7 +13,7 @@
 		0AA3648328A23C47006DF1AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AA3648128A23C47006DF1AF /* Main.storyboard */; };
 		0AA3648528A23C4A006DF1AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AA3648428A23C4A006DF1AF /* Assets.xcassets */; };
 		0AA3648828A23C4A006DF1AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AA3648628A23C4A006DF1AF /* LaunchScreen.storyboard */; };
-		0AA3649728A23CF0006DF1AF /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AA3649628A23CF0006DF1AF /* FruitModel.swift */; };
+		0AA3649728A23CF0006DF1AF /* Fruit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AA3649628A23CF0006DF1AF /* Fruit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		0AA3648428A23C4A006DF1AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AA3648728A23C4A006DF1AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0AA3648928A23C4A006DF1AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0AA3649628A23CF0006DF1AF /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
+		0AA3649628A23CF0006DF1AF /* Fruit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fruit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +70,7 @@
 		0AA3648F28A23C56006DF1AF /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				0AA3649628A23CF0006DF1AF /* FruitModel.swift */,
+				0AA3649628A23CF0006DF1AF /* Fruit.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -183,7 +183,7 @@
 			files = (
 				0AA3648028A23C47006DF1AF /* ViewController.swift in Sources */,
 				0AA3647C28A23C47006DF1AF /* AppDelegate.swift in Sources */,
-				0AA3649728A23CF0006DF1AF /* FruitModel.swift in Sources */,
+				0AA3649728A23CF0006DF1AF /* Fruit.swift in Sources */,
 				0AA3647E28A23C47006DF1AF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

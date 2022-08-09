@@ -1,5 +1,5 @@
 //
-//  FruitModel.swift
+//  Fruit.swift
 //  GetApi_SwiftBook
 //
 //  Created by Сергей Бабич on 09.08.2022.
