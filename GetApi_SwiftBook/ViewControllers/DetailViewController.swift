@@ -23,12 +23,12 @@ class DetailViewController: UIViewController {
         Family: \(fruit.family)
         Genus: \(fruit.genus)
         
-        Nutritions:
-        carbohydrates: \(fruit.nutritions.carbohydrates)
-        protein: \(fruit.nutritions.protein)
-        fat: \(fruit.nutritions.fat)
-        calories: \(fruit.nutritions.calories)
-        sugar: \(fruit.nutritions.sugar)
+        Nutritions per 100 g:
+        carbohydrates: \(fruit.nutritions.carbohydrates)g
+        protein: \(fruit.nutritions.protein)g
+        fat: \(fruit.nutritions.fat)g
+        calories: \(fruit.nutritions.calories)g
+        sugar: \(fruit.nutritions.sugar)g
         """
     }
 }
